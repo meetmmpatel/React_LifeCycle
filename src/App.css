@@ -1,4 +1,13 @@
 body {
 	margin: 25px;
 	padding: 35px;
+	background-color: rgb(211, 193, 170);
+	font-family: serif;
+	color: black;
+	white-space: nowrap;
+}
+h1 {
+	color: rgb(92, 37, 18);
+	background-color: rgb(206, 145, 54);
+	font-family: Georgia, "Times New Roman", Times, serif;
 }

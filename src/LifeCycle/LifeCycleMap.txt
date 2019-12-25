@@ -1,0 +1,14 @@
+
+Life Cycle Folder 
+
+1. Create class and function without state or life cycle method
+
+2. Create Class and Functions with state.
+
+3. Create Class and Functions with multiple state/props
+    3.1 Will add Component life cycle phases in class
+    3.2 Will add Hooks in functions 
+    
+
+
+
